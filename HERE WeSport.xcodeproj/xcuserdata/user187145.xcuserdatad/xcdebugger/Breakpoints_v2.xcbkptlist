@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A574D219-38BE-4307-99A2-5984A7BF98B9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F3B0662-5119-4A9F-9B3F-F79C0485916F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HERE WeSport/FavoritesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8F3B0662-5119-4A9F-9B3F-F79C0485916F - 35aa0ba599b3395b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HERE_WeSport.FavoritesView.body.getter : some"
+                  moduleName = "HERE WeSport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user187145/Desktop/HERE%20WeSport/HERE%20WeSport/FavoritesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "8F3B0662-5119-4A9F-9B3F-F79C0485916F - 42ee4c2126582577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.toolbar&lt;A where A1: SwiftUI.View&gt;(content: () -&gt; A1) -&gt; some&gt;&gt;.0 in HERE_WeSport.FavoritesView.body.getter : some"
+                  moduleName = "HERE WeSport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user187145/Desktop/HERE%20WeSport/HERE%20WeSport/FavoritesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
